@@ -1,0 +1,6 @@
+@Progra4Quiz_HostAddress = http://localhost:5274
+
+GET {{Progra4Quiz_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
